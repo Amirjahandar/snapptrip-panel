@@ -1,4 +1,4 @@
-# SnapTripPanel
+# SnappTripPanel
 
 this project is  for trip admin panel
 that use for insert main content of site
